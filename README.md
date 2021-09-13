@@ -5,7 +5,9 @@
 Built this simple application using public apis from this really interesting repo
 https://github.com/public-apis/public-apis
 
-Styled with bulma and some custom css
+Styled with bulma CSS framework and some custom CSS
 
-You can see the project [Here](https://quizzical-galileo-ab85bf.netlify.app/)
+------
+
+You can see the project live [Here](https://quizzical-galileo-ab85bf.netlify.app/)
 
