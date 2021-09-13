@@ -7,7 +7,7 @@ https://github.com/public-apis/public-apis
 
 Styled with bulma CSS framework and some custom CSS
 
-------
+======
 
 You can see the project live [Here](https://quizzical-galileo-ab85bf.netlify.app/)
 
