@@ -46,4 +46,8 @@ h1{
     .v2{
         text-align: center;
     }
+
+    .all {
+        margin: 4rem 0 10rem 0;
+    }
 }
