@@ -11,7 +11,4 @@ Styled with bulma CSS framework + some custom CSS
 Hosted on netlify
 
 
-
-
-You can see the project [HERE](https://quizzical-galileo-ab85bf.netlify.app/)
-
+You can see the project live -> [HERE](https://quizzical-galileo-ab85bf.netlify.app/)
