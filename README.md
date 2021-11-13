@@ -9,4 +9,6 @@ The facts may take a few seconds to fetch because a proxy server was setup to go
 
 Styled with bulma + some custom CSS | Hosted on netlify
 
+------
+
 You can see the project live -> [HERE](https://quizzical-galileo-ab85bf.netlify.app/)
