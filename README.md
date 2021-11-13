@@ -7,7 +7,7 @@ https://github.com/public-apis/public-apis
 
 The facts may take a few seconds to fetch because a proxy server was setup to go around the Dog facts api missing CORS header 'Access-Control-Allow-Origin'. 
 
-Styled with bulma + some custom CSS | Hosted on netlify
+Styled with BULMA + some custom CSS | Hosted on netlify
 
 ------
 
