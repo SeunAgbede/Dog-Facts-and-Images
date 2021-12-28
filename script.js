@@ -13,7 +13,7 @@ async function getDog() {
         const data = await res.json(); 
         dog_img.innerHTML = `<img src="${data.message}">`
     } catch (err) {
-        dog_img.innerHTML = `<p>${err.message}</p>`;
+        dog_img.innerHTML = `<p>${err.name}</p>`;
     }
 };
 
@@ -25,7 +25,7 @@ async function getQuo() {
         const data = await res.json();
         dog_quote.innerHTML = data[0].fact;
     } catch (err){
-        dog_quote.innerHTML = `<p>${err.message}</p>`; 
+        dog_quote.innerHTML = `<p>${err.name}</p>`; 
     }
 };
 
