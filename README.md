@@ -11,4 +11,4 @@ Styled with BULMA + some custom CSS | Hosted on netlify
 
 ------
 
-You can see the project live -> [HERE](https://quizzical-galileo-ab85bf.netlify.app/)
+You can see the project live -> [HERE](https://dog-facts-and-images.netlify.app/)
